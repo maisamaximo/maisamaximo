@@ -2,8 +2,6 @@
 
 ## A little bit about me
 
----
-
 I am currently working at Tata Consultancy Services as Fullstack Developer (Java and Angular) on a very cool project that is integrating instant payment (PIX) in one of the largest banks in Brazil.
 
 Also taking the opportunity to further explore the world of front-end, design, ui / ux and accessibility.
