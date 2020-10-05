@@ -1,4 +1,4 @@
-  <img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="https://lh3.googleusercontent.com/X6ZWWbK3kc5VtxfumA8JuHB449uaQieq_khHkvL9ljMXnih1wxRAwvcyXyPI1COsTF3BSqHvoIZG2SIcN9FciAfsndATp3D1T7ZhjSjiUf10QUAui8EiMeWNl25bHuPcK4vQxMLwzp6kmaZrwLy16K3ATw1ZjjXPaDnX3ztSZUBskoC0rCO0unA22JhonLQ1q0Z9ytJLpiHpiy69dOFae-yKvSkDi8WZCPMKOEXA6WZd7x4mpgizZU5piFUYCgFn8PqC_udan4RqBoXSb92EArEvLaJLP822AhrBAeOtNE7hfxSzBTqTBBta9cGO_d_vSpmFkodR2xJVqMXxdKwt54O2AHXxqLnyHHogb-GmgEo36l7UHcQkdNofg__RuvY5zEASQHwClm7f-j32ojY0wxq6JK4VCLFUCeTMe5sspDiY6Y84_LwRkYCrBKuLcu9N_-Lg1SeyuWEyOuthSmu5-QptiTLtcgV_MnDvHBEzSPiih6t2SWf2zb-0ySuz_B3EBqjDmF_eWsGOLQkhrzae9s9lM-O8iWp_Ox67qaMSv31KlRsMgy12danmgcTIZQPtwaAxt9MrqMT6j9XAtxaB_9NeEHry271gCOjTXO7D0oO_z_u3tyRxCSPWs7w_HTH6yqKPsYE2rkUZkFjk1zk2Z_FPUmpbJYb5oneOlv19EZCTHbpgDmw8lAjsuSMjYA=w1440-h510-no?authuser=0" width="100%"/>
+  <img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="./profile.png" width="100%"/>
 
 ## A little bit about me
 
