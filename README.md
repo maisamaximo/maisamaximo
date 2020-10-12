@@ -20,7 +20,7 @@ Also taking the opportunity to further explore the world of front-end, design, u
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkgray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo-ferreira/)](https://www.linkedin.com/in/maisa-maximo-ferreira/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maisamaximo_/?hl=en)](https://www.instagram.com/maisamaximo_/?hl=en)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maisamaximo_)](https://twitter.com/maisamaximo_)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)
+[![Medium Badge](https://img.shields.io/badge/-Medium-ffbe04?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)
 
 <!--
 **maisamaximo/maisamaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
