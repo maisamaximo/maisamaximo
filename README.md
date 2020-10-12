@@ -16,6 +16,12 @@ Also taking the opportunity to further explore the world of front-end, design, u
 
 ## Find me around the web
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo-ferreira/)](https://www.linkedin.com/in/maisa-maximo-ferreira/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=Instagram&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
+
 - Twitter: [@maisamaximo\_](https://twitter.com/maisamaximo_)
 - Instagram: [@maisamaximo\_](https://www.instagram.com/maisamaximo_/?hl=en)
 - Linkedin: [Maisa Maximo](https://www.linkedin.com/in/maisa-maximo-ferreira/)
