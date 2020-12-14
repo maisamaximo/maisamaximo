@@ -11,7 +11,7 @@ Also taking the opportunity to further explore the world of front-end, design, u
   <img alt="Taekwondo" src="https://img.shields.io/badge/SPORTS-TAEKWONDO-orange?style=flat-square" />
     <img alt="Books" src="https://img.shields.io/badge/BOOKS-TECH%2C%20CRIMINAL%20AND%20PERSONAL%20IMPROVEMENT-orange?style=flat-square" />
       <img alt="Food" src="https://img.shields.io/badge/FOOD-ANYTHING SWEETY-orange?style=flat-square" />
-        <img alt="Games" src="https://img.shields.io/badge/GAMES-DON'T%20STARVE%2C%20CUP%20HEAD%20AND%20THE%20SIMS-orange?style=flat-square" />
+        <img alt="Games" src="https://img.shields.io/badge/GAMES-DON'T%20STARVE%2C%20CUP%20HEAD%2C%20DETROIT%20BECOME%20HUMAN%20AND%20THE%20SIMS-orange?style=flat-square" />
                 <img alt="MUSIC" src="https://img.shields.io/badge/MUSIC-PIANO-orange?style=flat-square" />
 
 ## Find me around the web
