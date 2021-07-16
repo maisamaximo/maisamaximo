@@ -13,6 +13,8 @@ Also taking the opportunity to further explore the world of front-end, design, u
       <img alt="Food" src="https://img.shields.io/badge/FOOD-ANYTHING SWEETY-A01474?style=flat-square" />
         <img alt="Games" src="https://img.shields.io/badge/GAMES-DON'T%20STARVE%2C%20CUP%20HEAD%2C%20DETROIT%20BECOME%20HUMAN%20AND%20THE%20SIMS-A01474?style=flat-square" />
                 <img alt="MUSIC" src="https://img.shields.io/badge/MUSIC-PIANO-A01474?style=flat-square" />
+                
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisamaximo&show_icons=true&theme=synthwave)
 
 ## Find me around the web
 [![Github Badge](https://img.shields.io/badge/-Github-790A56?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
