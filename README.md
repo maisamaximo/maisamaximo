@@ -1,4 +1,4 @@
- <img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="./profile1.png" width="100%"/>
+ <img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="./profile.png" width="100%"/>
 
 ## A little bit about me
 
