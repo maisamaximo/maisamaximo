@@ -1,6 +1,4 @@
-# Hi, I'm Maisa 🥰👋
- 
- <img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="https://user-images.githubusercontent.com/16991001/180581380-1400526d-0f1b-40ce-8ca1-de04b8a131e3.png" width="100%"/>
+<img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="https://user-images.githubusercontent.com/16991001/180581380-1400526d-0f1b-40ce-8ca1-de04b8a131e3.png" width="100%"/>
 
 
 ## A little bit about me
