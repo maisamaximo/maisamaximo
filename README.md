@@ -16,7 +16,11 @@ Also taking the opportunity to further explore the world of front-end, design, u
                 <img alt="MUSIC" src="https://img.shields.io/badge/MUSIC-PIANO-A01474?style=flat-square" />
 
 
-<img alt="Header picture saying Hi, I am Maisa. Fullstack Developer" src="https://github-readme-streak-stats.herokuapp.com/?user=maisamaximo&theme=tokyonight" style="margin: auto"/>
+<p align="center">
+<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=maisamaximo&theme=tokyonight" />
+<p>
+  
+
 
 ## Find me around the web
 [![Github Badge](https://img.shields.io/badge/-Github-790A56?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
