@@ -1,5 +1,6 @@
 <!-- <img width="100%" alt="Screenshot 2022-07-23 at 21 11 48" src="https://user-images.githubusercontent.com/16991001/180621326-b06120ad-1d20-46eb-91d0-b1df4e5484ae.png"> -->
-<img width="100%" alt="Screenshot 2022-07-23 at 21 16 22" src="https://user-images.githubusercontent.com/16991001/180621448-689dab6b-0c90-44dc-b9f3-67eda0242532.png">
+
+<img width="100%" alt="Screenshot 2022-07-23 at 21 17 45" src="https://user-images.githubusercontent.com/16991001/180621482-80786785-7e1d-45ca-bdc4-e9ddcaba3b06.png">
 
 
 ## A little bit about me
