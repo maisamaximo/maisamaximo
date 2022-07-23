@@ -10,12 +10,6 @@ I have been working in the technology area for almost 9 years, ≈5 of them with
 I focus on creating well-structured and clean code projects using development best practices.
 
 
-<p align="center">
-<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=maisamaximo&theme=tokyonight" />
-<p>
-  
-
-
 ## Find me around the web
 [![Github Badge](https://img.shields.io/badge/-Github-6f77b0?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6f77b0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo/)](https://www.linkedin.com/in/maisa-maximo/)
@@ -34,13 +28,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="">
+<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=maisamaximo&theme=tokyonight" />
+<p>
+  
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=maisamaximo-cv)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=cute-pet-lib-demo)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=burger-apiv)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=attendance-list-react)
+<!--![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=maisamaximo-cv)
 
 
-![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg)-->
 
 
