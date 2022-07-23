@@ -23,11 +23,11 @@ Also taking the opportunity to further explore the world of front-end, design, u
 
 
 ## Find me around the web
-[![Github Badge](https://img.shields.io/badge/-Github-790A56?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-790A56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo/)](https://www.linkedin.com/in/maisa-maximo/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-790A56?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maisamaximo_/?hl=en)](https://www.instagram.com/maisamaximo_/?hl=en)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-790A56?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maisamaximo_)](https://twitter.com/maisamaximo_)
-[![Medium Badge](https://img.shields.io/badge/-Medium-790A56?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)
+[![Github Badge](https://img.shields.io/badge/-Github-#6f77b0?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-#6f77b0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo/)](https://www.linkedin.com/in/maisa-maximo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-#6f77b0?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maisamaximo_/?hl=en)](https://www.instagram.com/maisamaximo_/?hl=en)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-#6f77b0?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maisamaximo_)](https://twitter.com/maisamaximo_)
+[![Medium Badge](https://img.shields.io/badge/-Medium-#6f77b0?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)
 <!--
 **maisamaximo/maisamaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
