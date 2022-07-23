@@ -3,17 +3,11 @@
 
 ## A little bit about me
 
-I am currently working at Tata Consultancy Services as Fullstack Developer (Java and Angular) on a very cool project that is integrating instant payment (PIX) in one of the largest banks in Brazil.
+I'm a hardworking Full Stack developer with a talent for creating elegant solutions. Passionate about front-end development, web accessibility and design.
 
-Also taking the opportunity to further explore the world of front-end, design, ui / ux and accessibility.
+I have been working in the technology area for almost 9 years, ≈5 of them with software development. I participated in large projects in the banking sector for big companies and also startups.
 
-## Hobbies
-
-  <img alt="Gyn" src="https://img.shields.io/badge/GYM-A01474?style=flat-square" />
-    <img alt="Books" src="https://img.shields.io/badge/BOOKS-TECH%2C%20CRIMINAL%20AND%20PERSONAL%20IMPROVEMENT-A01474?style=flat-square" />
-      <img alt="Food" src="https://img.shields.io/badge/FOOD-ANYTHING SWEETY-A01474?style=flat-square" />
-        <img alt="Games" src="https://img.shields.io/badge/GAMES-DON'T%20STARVE%2C%20CUP%20HEAD%2C%20DETROIT%20BECOME%20HUMAN%20AND%20THE%20SIMS-A01474?style=flat-square" />
-                <img alt="MUSIC" src="https://img.shields.io/badge/MUSIC-PIANO-A01474?style=flat-square" />
+I focus on creating well-structured and clean code projects using development best practices.
 
 
 <p align="center">
