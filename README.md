@@ -35,7 +35,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=maisamaximo-cv)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=cute-pet-lib-demo)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=burger-apiv)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=attendance-list-react)
+
+
 ![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg)
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=maisamaximo-cv)
