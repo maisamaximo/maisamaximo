@@ -15,7 +15,7 @@ I focus on creating well-structured and clean code projects using development be
 ## Find me around the web
 [![Github Badge](https://img.shields.io/badge/-Github-6f77b0?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6f77b0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo/)](https://www.linkedin.com/in/maisa-maximo/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6f77b0?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maisamaximo_/?hl=en)](https://www.instagram.com/maisamaximo_/?hl=en)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6f77b0?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tips.frontend/?hl=en)](https://www.instagram.com/tips.frontend/?hl=en)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-6f77b0?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maisamaximo_)](https://twitter.com/maisamaximo_)
 [![Medium Badge](https://img.shields.io/badge/-Medium-6f77b0?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)
 <!--
