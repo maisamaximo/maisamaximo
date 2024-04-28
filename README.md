@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="">
-<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=maisamaximo&theme=tokyonight" />
-<p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maisamaximo&theme=buefy-dark&hide_border=true&border_radius=10&card_width=1200)](https://git.io/streak-stats)
   
 
 <!--![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maisamaximo&repo=maisamaximo-cv)
