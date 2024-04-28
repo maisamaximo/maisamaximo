@@ -1,6 +1,6 @@
 <!-- <img width="100%" alt="Screenshot 2022-07-23 at 21 11 48" src="https://user-images.githubusercontent.com/16991001/180621326-b06120ad-1d20-46eb-91d0-b1df4e5484ae.png"> -->
 
-<img width="100%" alt="Screenshot 2022-07-23 at 21 17 45" src="https://user-images.githubusercontent.com/16991001/180621482-80786785-7e1d-45ca-bdc4-e9ddcaba3b06.png">
+<img width="1031" alt="Screenshot 2024-04-28 at 02 43 54" src="https://github.com/maisamaximo/maisamaximo/assets/16991001/fa52d1c7-96d7-4c75-93f2-8d7798059f20">
 
 
 ## A Little Bit About Me 
