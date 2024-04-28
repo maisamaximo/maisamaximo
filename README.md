@@ -3,21 +3,18 @@
 <img width="100%" alt="Screenshot 2022-07-23 at 21 17 45" src="https://user-images.githubusercontent.com/16991001/180621482-80786785-7e1d-45ca-bdc4-e9ddcaba3b06.png">
 
 
-## A little bit about me
+## A Little Bit About Me 
 
-I'm a hardworking Full Stack developer with a talent for creating elegant solutions. Passionate about front-end development, web accessibility and design.
+I'm a Senior Front-End Developer with over 6 years of experience in the tech industry, recognized for my exceptional teamwork and collaborative spirit. I'm adaptable and skilled at creating high-quality, clean code, always ensuring compliance with web accessibility standards. I have a deep passion for user-centered design and continually seek to improve the user experience.
 
-I have been working in the technology area for almost 9 years, ≈5 of them with software development. I participated in large projects in the banking sector for big companies and also startups.
-
-I focus on creating well-structured and clean code projects using development best practices.
-
+As a quick learner with a positive attitude, I'm valued for my consistent project success, attention to detail, and commitment to continuous improvement. I excel at balancing independent work with teamwork, ensuring seamless project delivery even within tight schedules.
 
 ## Find me around the web
 [![Github Badge](https://img.shields.io/badge/-Github-6f77b0?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maisamaximo)](https://github.com/maisamaximo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6f77b0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maisa-maximo/)](https://www.linkedin.com/in/maisa-maximo/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6f77b0?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tips.frontend/?hl=en)](https://www.instagram.com/tips.frontend/?hl=en)
+<!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-6f77b0?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tips.frontend/?hl=en)](https://www.instagram.com/tips.frontend/?hl=en)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-6f77b0?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maisamaximo_)](https://twitter.com/maisamaximo_)
-[![Medium Badge](https://img.shields.io/badge/-Medium-6f77b0?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)
+[![Medium Badge](https://img.shields.io/badge/-Medium-6f77b0?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)](https://medium.com/@maisa_maximo/teoria-da-janela-quebrada-c27c364892ec)-->
 <!--
 **maisamaximo/maisamaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
