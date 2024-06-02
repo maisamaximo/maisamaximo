@@ -1,8 +1,5 @@
 <!-- <img width="100%" alt="Screenshot 2022-07-23 at 21 11 48" src="https://user-images.githubusercontent.com/16991001/180621326-b06120ad-1d20-46eb-91d0-b1df4e5484ae.png"> -->
 
-![Black Minimal Email Header](https://github.com/maisamaximo/maisamaximo/assets/16991001/1527be8e-3b18-43f2-8fa0-ded9ae384aad)
-
-
 ## A Little Bit About Me 
 
 I'm a Senior Front-End Developer with over 6 years of experience in the tech industry, recognized for my exceptional teamwork and collaborative spirit. I'm adaptable and skilled at creating high-quality, clean code, always ensuring compliance with web accessibility standards. I have a deep passion for user-centered design and continually seek to improve the user experience.
